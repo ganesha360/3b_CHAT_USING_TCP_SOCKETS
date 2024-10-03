@@ -1,8 +1,7 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
-```
-NAME:RAGUNATH R
-REG NO:212222240081
-```
+## NAME: GANESH R
+## REG NO: 212222240029
+
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
@@ -13,7 +12,7 @@ To write a python program for creating Chat using TCP Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
 ## Server:
-```
+```PY
 import socket
 import threading
 
@@ -49,7 +48,7 @@ start_server()
 
 ```
 ### Client:
-```
+```PY
 import socket
 
 def start_client():
